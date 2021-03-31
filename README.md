@@ -19,11 +19,10 @@
 
 稍微看过一点的不良技能
 
-- 🔭 TODO
-- 🌱 TODO
-- 👯 TODO
-- 🤔 TODO
-- 💬 TODO
-- 📫 TODO
-- 😄 TODO
-- ⚡ TODO
+- <img src="https://img.shields.io/badge/小技能-javascript-9cf" />
+- <img src="https://img.shields.io/badge/小技能-vue-9cf" />
+- <img src="https://img.shields.io/badge/小技能-react-9cf" />
+- <img src="https://img.shields.io/badge/小技能-Node-9cf" />
+- <img src="https://img.shields.io/badge/小技能-Java-9cf" />
+- <img src="https://img.shields.io/badge/小技能-Python-9cf" />
+- <img src="https://img.shields.io/badge/小技能-http协议-9cf" />
