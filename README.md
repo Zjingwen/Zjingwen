@@ -35,14 +35,12 @@
         <img src="https://img.shields.io/badge/小技能-http协议-9cf" /><br />
       </td>
       <td width="33.33%">
-        TODO 还没想好写啥<br />
-        TODO 还没想好写啥<br />
-        TODO 还没想好写啥<br />
+        <img width="100%" src="http://qnoss.lanlanlife.com/20210331182846.jpg" /><br />
       </td>
       <td width="33.33%">
-        TODO 还没想好写啥<br />
-        TODO 还没想好写啥<br />
-        TODO 还没想好写啥<br />
+        做过很多项目<br />
+        可以从0到1到99（就不要100，怕自己骄傲）<br />
+        文笔不太好，但是爱胡诌乱说话<br />
       </td>
     </tr>
   </table>
