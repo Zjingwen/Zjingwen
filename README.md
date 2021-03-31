@@ -17,12 +17,35 @@
   </table>
 </p>
 
-稍微看过一点的不良技能
+<p align="center">
+  <table width="100%">
+    <tr>
+      <th>稍微看过一点的不良技能</th>
+      <th>日常会写东西的地方</th>
+      <th>还是要提一下的破事</th>
+    </tr>
+    <tr>
+      <td width="33.33%">
+        <img src="https://img.shields.io/badge/小技能-javascript-9cf" /><br />
+        <img src="https://img.shields.io/badge/小技能-vue-9cf" /><br />
+        <img src="https://img.shields.io/badge/小技能-react-9cf" /><br />
+        <img src="https://img.shields.io/badge/小技能-Node-9cf" /><br />
+        <img src="https://img.shields.io/badge/小技能-Java-9cf" /><br />
+        <img src="https://img.shields.io/badge/小技能-Python-9cf" /><br />
+        <img src="https://img.shields.io/badge/小技能-http协议-9cf" /><br />
+      </td>
+      <td width="33.33%">
+        TODO 还没想好写啥<br />
+        TODO 还没想好写啥<br />
+        TODO 还没想好写啥<br />
+      </td>
+      <td width="33.33%">
+        TODO 还没想好写啥<br />
+        TODO 还没想好写啥<br />
+        TODO 还没想好写啥<br />
+      </td>
+    </tr>
+  </table>
+</p>
 
-- <img src="https://img.shields.io/badge/小技能-javascript-9cf" />
-- <img src="https://img.shields.io/badge/小技能-vue-9cf" />
-- <img src="https://img.shields.io/badge/小技能-react-9cf" />
-- <img src="https://img.shields.io/badge/小技能-Node-9cf" />
-- <img src="https://img.shields.io/badge/小技能-Java-9cf" />
-- <img src="https://img.shields.io/badge/小技能-Python-9cf" />
-- <img src="https://img.shields.io/badge/小技能-http协议-9cf" />
+
