@@ -3,8 +3,8 @@
 <p align="center">
   <table width="100%">
     <tr>
-      <th>没啥用-1</th>
-      <th>没啥用-2</th>
+      <th>统计卡槽</th>
+      <th>语言卡槽</th>
     </tr>
     <tr>
       <td width="50%">
