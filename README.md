@@ -8,10 +8,10 @@
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zjingwen" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Zjingwen" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zjingwen&layout=compact" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zjingwen&layout=compact" />
       </td>
     </tr>
   </table>
