@@ -17,7 +17,7 @@
   </table>
 </p>
 
-Here are some ideas to get you started:
+稍微看过一点的不良技能
 
 - 🔭 TODO
 - 🌱 TODO
